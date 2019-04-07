@@ -1,0 +1,31 @@
+{
+    "127.0.0.1:8000" : {
+        "title" : "Pemerintah Aceh",
+        "json_dir" : "acehprov",
+        "theme_dir" : "square"
+    },
+
+    "sabangkota.go.id" : {
+        "title" : "Kota Sabang",
+        "json_dir" : "sabangkota",
+        "theme_dir" : "technology"
+    },
+
+    "diskominfo.acehprov.go.id" : {
+        "title" : "Diskominfo Aceh",
+        "json_dir" : "diskominfo_acehprov",
+        "theme_dir" : "skpa"
+    },
+
+    "acehbesarkab.go.id" : {
+        "title" : "Aceh Besar",
+        "json_dir" : "acehbesarkab",
+        "theme_dir" : "kabupaten"
+    },
+
+    "diskominfo.acehbesarkab.go.id" : {
+        "title" : "Diskominfo Aceh Besar",
+        "json_dir" : "diskominfo_acehbesarkab",
+        "theme_dir" : "skpk"
+    }
+}
